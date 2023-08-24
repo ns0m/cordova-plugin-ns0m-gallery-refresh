@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-gallery-refresh" version="1.0.55" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova-plugin-ns0m-gallery-refresh" version="1.0.55" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
   <name>GalleryRefresh</name>
   <description>Mobile Device gallery refresh after image file download.</description>
   <license>MIT</license>
   <author>KwanUng Park - pouu69@gmail.com</author>
   <keywords>image,photo library,gallery,refresh,download</keywords>
-  <repo>https://github.com/pouu69/cordova-plugin-gallery-refresh.git</repo>
+  <repo>https://github.com/ns0m/cordova-plugin-ns0m-gallery-refresh</repo>
+  <issue>https://github.com/ns0m/cordova-plugin-ns0m-gallery-refresh/issues</issue>
 
   <engines>
     <engine name="cordova" version=">=3.0.0" />
@@ -45,6 +46,5 @@
     <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
         <string>$PHOTOLIBRARY_USAGE_DESCRIPTION</string>
     </config-file>
-
   </platform>
 </plugin>
