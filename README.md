@@ -1,3 +1,10 @@
+### Publication-only version of the [pouu69/cordova-plugin-gallery-refresh](https://github.com/pouu69/cordova-plugin-gallery-refresh) package with some fixes. [![Latest Published Version](https://img.shields.io/npm/v/cordova-plugin-ns0m-gallery-refresh)](https://www.npmjs.com/package/cordova-plugin-ns0m-gallery-refresh)
+``` 
+cordova plugin add cordova-plugin-ns0m-gallery-refresh
+``` 
+ 
+--- 
+
 # cordova-plugin-gallery-refresh
 ## Device
 - android
