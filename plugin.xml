@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-ns0m-gallery-refresh"
-        version="1.1.0">
+        version="1.2.0">
     <name>GalleryRefresh</name>
     <description>Mobile Device gallery refresh after image file download.</description>
     <license>MIT</license>
