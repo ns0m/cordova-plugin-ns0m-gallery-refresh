@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ns0m-gallery-refresh",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Platform Device gallery refresh after image download",
   "cordova": {
     "id": "cordova-plugin-ns0m-gallery-refresh",
